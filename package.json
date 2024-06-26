@@ -1,0 +1,26 @@
+{
+  "name": "graphql-project",
+  "version": "1.0.0",
+  "description": "graph-ql-based-system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hbodgal/eventee.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hbodgal/eventee/issues"
+  },
+  "homepage": "https://github.com/hbodgal/eventee#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
